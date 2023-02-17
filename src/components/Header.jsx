@@ -6,7 +6,7 @@ import FrmSelectFam from "./FrmSelectFam";
 
 const Header = () => {
   return (
-    <header className="container sticky py-2 z-10 top-0 dark:bg-semi-black mx-auto md:w-3/4">
+    <header className="container sticky py-2 z-10 top-0 bg-white dark:bg-semi-black mx-auto md:w-3/4">
       <nav className="flex items-center py-2">
         <div className="icon">
           <Link to="/home">
